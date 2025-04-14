@@ -9,6 +9,12 @@ The dash app interface the robot through a web app.
 
 ## Guides
 
+###  ⚠ 2025 and After ⚠
+As of 4/13/2025 there is a working version of this repository on the desktop of the NUC (windows machine) labeled "Big Toe". If you activate the python virtual environment, all of the proper dependancies should work with no installation required. 
+ 
+The Nuc should be paired with the Rotrics Arm at all times, and is designated so that you don't have to set up your own computer to run long plots. 
+
+The Nuc should also have the 'Rotrics Studio' desktop app installed. For alternate methods of interacting with the Dexarm see the [**Rotrics Control**](https://github.com/CreativeInquiry/Rotrics_control) repository.
 ### Running the app
 
 To run the app, run this script from the same folder that the drawing_app.py exists and then access the app from your browser:
